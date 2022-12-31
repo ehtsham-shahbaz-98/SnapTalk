@@ -58,7 +58,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          SnapTalk
         </Typography>
         {isMobileMenuToggled && (
           <FlexBetween
